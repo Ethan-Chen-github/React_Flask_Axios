@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React_Flask_Axios/static/css/main.0f1b3394.chunk.css",
+    "main.js": "/React_Flask_Axios/static/js/main.e67a388a.chunk.js",
+    "main.js.map": "/React_Flask_Axios/static/js/main.e67a388a.chunk.js.map",
+    "runtime-main.js": "/React_Flask_Axios/static/js/runtime-main.263cd1dc.js",
+    "runtime-main.js.map": "/React_Flask_Axios/static/js/runtime-main.263cd1dc.js.map",
+    "static/css/2.fc2db407.chunk.css": "/React_Flask_Axios/static/css/2.fc2db407.chunk.css",
+    "static/js/2.5e96d1a8.chunk.js": "/React_Flask_Axios/static/js/2.5e96d1a8.chunk.js",
+    "static/js/2.5e96d1a8.chunk.js.map": "/React_Flask_Axios/static/js/2.5e96d1a8.chunk.js.map",
+    "static/js/3.f0e253b8.chunk.js": "/React_Flask_Axios/static/js/3.f0e253b8.chunk.js",
+    "static/js/3.f0e253b8.chunk.js.map": "/React_Flask_Axios/static/js/3.f0e253b8.chunk.js.map",
+    "index.html": "/React_Flask_Axios/index.html",
+    "static/css/2.fc2db407.chunk.css.map": "/React_Flask_Axios/static/css/2.fc2db407.chunk.css.map",
+    "static/css/main.0f1b3394.chunk.css.map": "/React_Flask_Axios/static/css/main.0f1b3394.chunk.css.map",
+    "static/js/2.5e96d1a8.chunk.js.LICENSE.txt": "/React_Flask_Axios/static/js/2.5e96d1a8.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/React_Flask_Axios/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.263cd1dc.js",
+    "static/css/2.fc2db407.chunk.css",
+    "static/js/2.5e96d1a8.chunk.js",
+    "static/css/main.0f1b3394.chunk.css",
+    "static/js/main.e67a388a.chunk.js"
+  ]
+}
